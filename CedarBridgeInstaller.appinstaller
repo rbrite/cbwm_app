@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AppInstaller
+	Uri="file:///C:/CBWMStaging/CedarBridgeInstaller.appinstaller"
+	Version="1.0.20.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2">
+	<MainBundle
+		Name="23f6d0ea-3b23-4f2f-a586-cb8e59ec0877"
+		Version="1.0.20.0"
+		Publisher="CN=Ryan Brite"
+		Uri="file:///C:/CBWMStaging/CedarBridgeInstaller_1.0.20.0_Test/CedarBridgeInstaller_1.0.20.0_x64.msixbundle" />
+	<UpdateSettings>
+		<OnLaunch
+			HoursBetweenUpdateChecks="0" />
+	</UpdateSettings>
+</AppInstaller>
